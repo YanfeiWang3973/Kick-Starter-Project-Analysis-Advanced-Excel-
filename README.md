@@ -8,6 +8,9 @@ The objective was to transform raw campaign-level data into an interactive, busi
 
 ---
 
+<img width="1333" height="627" alt="Screenshot 2026-02-18 102125" src="https://github.com/user-attachments/assets/b07ba561-3431-4c37-849b-a27ce6feb6ef" />
+
+
 ## 📊 Dataset
 
 The dataset contains approximately **378,000 Kickstarter projects** with the following key fields:
